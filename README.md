@@ -4,6 +4,8 @@ The Advice App is a simple and responsive React application that fetches and dis
 
 The purpose of this project was to learn how to fetch data from external APIs using fetch(), manage asynchronous data, and update the UI dynamically in React. It also reinforced concepts like state updates and component re-rendering with user interaction.
 
+🔗👉 click here to see the live demo-->  https://nanthakumar-m.github.io/advice_app-react/
+
 ## ⚙️ Technologies Used
 
 - HTML5
